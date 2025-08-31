@@ -16,8 +16,8 @@
 .header .logo {
     font-family: var(--fonte-secundaria); /* Fonte da logo */
     font-size: var(--fonte-extra-grande); /* Tamanho da logo */
-    color: var(--branca);             /* Cor da fonte */
-    border: 2px solid var(--branca);  /* Borda branca */
+    color: var(--cor-branca);             /* Cor da fonte */
+    border: 2px solid var(--cor-branca);  /* Borda branca */
     border-radius: 50%;                   /* Formato circular */
     width: 65px;                          /* Largura da logo */
     height: 65px;                         /* Altura da logo */
