@@ -9,7 +9,7 @@
     width: 100%;                          /* Ocupa toda a largura */
     z-index: 1000;                        /* Fica acima de outros elementos */
     transition: 0.3s;                     /* Transição suave para mudanças */
-    background: var(--cor-fundo-cinza-claro); /* Fundo inicial */
+    background: var(--fundo-cinza-claro); /* Fundo inicial */
 }
 
 /* Logo do header */
