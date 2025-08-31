@@ -16,7 +16,7 @@ html {
 }
   
 body {
-    background-color: var(--cor-fundo-cinza-escuro); /* Cor de fundo principal */
+    background-color: var(--fundo-cinza-escuro); /* Cor de fundo principal */
     font-family: var(--fonte-primaria);              /* Fonte padrão do site */
     font-size: var(--fonte-normal);                  /* Tamanho de fonte base */
     padding-top: 90px;                               /* Espaço para header fixo */

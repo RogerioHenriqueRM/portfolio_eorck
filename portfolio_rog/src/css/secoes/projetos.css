@@ -47,7 +47,7 @@
 /* Informações que aparecem sobre o card */
 .projetos .container-projetos .projeto .informacoes-projeto {
     padding: 20px 20px;                  /* Espaçamento interno */
-    background-color: var(--cor-fundo-escuro); /* Fundo escuro */
+    background-color: var(--fundo-escuro); /* Fundo escuro */
     position: absolute;                  /* Sobreposição sobre o card */
     top: 0;                              /* Começa no topo do card */
     width: 100%;                         /* Ocupa toda largura do card */
@@ -71,7 +71,7 @@
     font-weight: 500;                      /* Peso médio */
     position: absolute;                    /* Posicionado sobre a imagem */
     opacity: 0.7;                          /* Transparência parcial */
-    background-color: var(--cor-fundo-escuro); /* Fundo escuro */
+    background-color: var(--fundo-escuro); /* Fundo escuro */
     width: 100%;                           /* Largura total do card */
     padding-left: 20px;                    /* Espaçamento interno à esquerda */
     padding-bottom: 10px;                  /* Padding inferior */

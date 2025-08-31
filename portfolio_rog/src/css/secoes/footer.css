@@ -4,7 +4,7 @@
 .footer {
     margin-top: 7rem;                          /* Espaço acima do footer */
     text-align: center;                         /* Centraliza o conteúdo */
-    background-color: var(--cor-fundo-cinza-claro); /* Cor de fundo do rodapé */
+    background-color: var(--fundo-cinza-claro); /* Cor de fundo do rodapé */
 }
 
 /* Container interno do footer */
